@@ -43,14 +43,24 @@
     "uniqCompNum": 18,
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/logo-695x664-128x122.png",
+    "mbrsiteDomain": "ztmz5jr86w",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Garkuwa FM Sokoto",
+        "meta_descr": "Garkuwa FM 95.5 Mhz Sokoto is a vibrant radio station that came live on air on February 1, 2017, with a mission to serve as the voice of the people without political affiliations and to excel over other radio stations in Sokoto State by showing high professional standards in broadcasting.\n\nThe station operates on 2 x 5kw transmitters on 95.5 Mhz frequency modulation, covering the entire Sokoto State in clear signals. Their programs are targeted to encourage good governance and enhance cohesion among the people.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
